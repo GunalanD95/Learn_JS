@@ -9,6 +9,6 @@ const obj = [
 //   console.log(obj[n]);
 // }
 
-for (let n = obj.length - 1; n>=0 ;n++){ // for (counter , condition , increment)
+for (let n = obj.length - 1; n>=0 ;n--){ // for (counter , condition , increment)
   console.log(obj[n]);
 }
