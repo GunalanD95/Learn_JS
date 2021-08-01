@@ -40,8 +40,8 @@ const calave = function(arr) {
   let sum = 0
   for (u= 0 ; u < arr.length ; u++){
     sum += arr[u]
-    console.log("ha ha",sum);
   }
+  console.log("ha ha",sum);
 }
 
 calave(arr)
